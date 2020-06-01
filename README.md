@@ -1,2 +1,3 @@
 # hello-world
-To store ideas, resources, or even share and discuss things with others.
+Just another repository.
+I'm just figuring it out.
